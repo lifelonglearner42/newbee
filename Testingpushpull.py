@@ -8,3 +8,6 @@ Hello("Hello people")
 //this is second comment after setting upstream
 
 //modified module and added comment after git-ignore .idea
+
+
+//conflict resolution
